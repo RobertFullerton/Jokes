@@ -1,4 +1,3 @@
-<!-- Please remove this file from your project -->
 <template>
   <div class="container">
   <p>Joke of the day!</p>
