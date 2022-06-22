@@ -4,6 +4,7 @@
   <p>Joke of the day!</p>
    <template>
     <div>
+      <!-- add random joke with styling-->
     </div>
   </template>
   </div>

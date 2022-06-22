@@ -3,7 +3,6 @@
 ### To Do's:
  - Create a random joke on the home page.
  - Add Css styling. 
- - 
 
 ## Build Setup
 
